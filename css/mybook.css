@@ -1,0 +1,101 @@
+#main-header{
+		text-align: center;
+		background: #3b5998;
+		color: #fff;
+		font-family: Arial, Helvetic, sans-serif;
+		padding: 0px}
+
+.my-form input[type="text"]{
+		padding: 50px;
+		width: 10%;
+
+}
+.my-form input[type="submit"]{
+		background: #2f55a4;
+		color: #fff;
+		border: 2px #fff solid;
+		padding: 5px;
+		border: 15px;
+		margin: 10px;;
+}
+
+.my-form2 input[type="text"]{
+		margin-bottom: 30px;
+		padding: 7px;
+		width: 60%;
+		border-radius: 1em;
+		margin: 12px;
+}
+.my-form2 input[type="email"]{
+		margin-bottom: 20px;
+		width: 60%;
+		border-radius: 1em;
+		margin: 5px;
+}
+.my-form2 input[type="password"]{
+		margin-bottom: 20px;
+		padding: 7px;
+		width: 60%;
+		border-radius: 1em;
+		margin: 12px;
+}
+.my-form2 input[type="number"]{
+		padding: 7px;
+		width: 60%;
+		border-radius: 1em;
+		margin-bottom: 20px;
+		margin: 12px;
+}
+.my-form2 input[type="calender"]{
+		padding: 7px;
+		width: 60%;
+		border-radius: 1em;
+		margin: 12px;
+		margin-bottom: 25px;
+}
+.my-form2 input[type="submit"]{
+		background: #59953e;
+		color: #fff;
+		text-decoration-color: #fff;
+		padding: 8px 50px;
+		border-radius: 10px;
+		border-top: 20px;
+		border-bottom: 10px;
+		margin-left: 40px;
+}
+.my-form2 .box label{
+	display: block;
+	padding-bottom: 10px;
+}
+footer{
+		text-align: center;
+		background: #bfc4dc;
+		color: black;
+		font-family: Arial, Helvetic, sans-serif;
+		font-size: 12px;
+		word-spacing: 3px;
+		padding: 5px;
+
+}
+#main-body{
+	text-align: left;
+	background: #dfe1ee;
+	color: black;
+	font-family: Arial, Helvetic, sans-serif;
+	padding: 25px;
+	background-image: url('../photos/facebook.jpg');
+	background-position: center left;
+	background-repeat: no-repeat;
+	background-size: 1000px 675px;
+	
+}
+.p-box{
+	margin-left: 1000px;
+	margin-top: 20px;
+	margin-right: 0px;
+}
+.my-form2 input[type="radio"]{
+		margin-right: 30px;
+		margin-top: 20px;
+		margin-bottom: 20px;
+}
